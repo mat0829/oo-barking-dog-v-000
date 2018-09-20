@@ -13,7 +13,7 @@ class Dog
   end
 
   def name
-    "#{@first_name}".strip
+    "#{@name}".strip
   end
 
 end
