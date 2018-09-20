@@ -1,1 +1,1 @@
-# Your code goes here!
+# Creating a new class called "Dog"
