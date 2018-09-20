@@ -4,12 +4,4 @@ class Dog
     @name = name
   end
 
-  def name
-    @name
-  end
-
-  def name
-    "#{@name}".strip
-  end
-
 end
