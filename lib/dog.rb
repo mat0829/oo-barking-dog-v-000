@@ -4,4 +4,9 @@ class Dog
     @new = Dog.new
   end
 
+  def bark
+    puts "Woof!"
+  end
+end
+
 end
