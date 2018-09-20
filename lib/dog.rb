@@ -9,8 +9,8 @@ class Dog
     @name
   end
 
-  def name=(new_name)
-    @name = gets.strip
+  def name
+    "#{@name}".strip
   end
 
 end
